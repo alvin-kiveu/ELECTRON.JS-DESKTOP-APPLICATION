@@ -1,6 +1,6 @@
 # ELECTRON.JS-DESKTOP-APPLICATION
 
-<img style="width:400px; height:200px;" src="https://miro.medium.com/max/1400/1*O6KluMvEBZ1cBL3EPo4tig.png" />
+<img style="width:200px; height:200px;" src="https://miro.medium.com/max/1400/1*O6KluMvEBZ1cBL3EPo4tig.png" />
 
 How to set up
 
