@@ -1,0 +1,16 @@
+Actions=PlayPause;Next;Previous
+
+[Desktop Action PlayPause]
+Name=Play-Pause
+Exec=audacious -t
+OnlyShowIn=Unity;
+
+[Desktop Action Next]
+Name=Next
+Exec=audacious -f
+OnlyShowIn=Unity;
+
+[Desktop Action Previous]
+Name=Previous
+Exec=audacious -r
+OnlyShowIn=Unity;
