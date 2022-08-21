@@ -1,6 +1,6 @@
 # ELECTRON.JS-DESKTOP-APPLICATION
 
-<img style="width:200px; height:400px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--dEmfE1jO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s3uitx6rdv7sod1g2acz.png" />
+<img style="width:400px; height:200px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--dEmfE1jO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s3uitx6rdv7sod1g2acz.png" />
 
 How to set up
 
